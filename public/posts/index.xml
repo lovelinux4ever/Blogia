@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts :: Learning with IA</title>
+    <link>http://localhost:1313/posts/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 09 Apr 2025 14:34:49 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primer Post hugo y Github</title>
+      <link>http://localhost:1313/posts/mi-primer-post/index.html</link>
+      <pubDate>Wed, 09 Apr 2025 14:34:49 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mi-primer-post/index.html</guid>
+      <description>Hola Mundooo!!!&#xA;Aquì estoy aprendiendo junto a Gemini y AI Studio Google sobre como crear un log personal en Github, sobre servidor Hugo y muchas cosas màs!&#xA;https://aistudio.google.com/welcome/</description>
+    </item>
+  </channel>
+</rss>
