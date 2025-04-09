@@ -6,12 +6,12 @@
     <description></description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 09 Apr 2025 14:34:49 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 16:44:18 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
       <link>http://localhost:1313/posts/index.html</link>
-      <pubDate>Wed, 09 Apr 2025 14:34:49 -0400</pubDate>
+      <pubDate>Wed, 09 Apr 2025 16:44:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/index.html</guid>
       <description></description>
     </item>

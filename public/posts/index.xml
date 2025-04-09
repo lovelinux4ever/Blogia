@@ -6,8 +6,15 @@
     <description></description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 09 Apr 2025 14:34:49 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 16:44:18 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primera Prueba Real</title>
+      <link>http://localhost:1313/posts/primera-prueba-real/index.html</link>
+      <pubDate>Wed, 09 Apr 2025 16:44:18 -0400</pubDate>
+      <guid>http://localhost:1313/posts/primera-prueba-real/index.html</guid>
+      <description>Contenido de prueba! la primera prueba online!!&#xA;Como se puede ver, gracias al servicio de Netlify, un blog online en menos de medio día! https incluido! No e fascinante lo que han creado y existe hoy en día? cualquiera con un navegador web puede llegar a leer esto!&#xA;Here we go!!!</description>
+    </item>
     <item>
       <title>Mi Primer Post hugo y Github</title>
       <link>http://localhost:1313/posts/mi-primer-post/index.html</link>
