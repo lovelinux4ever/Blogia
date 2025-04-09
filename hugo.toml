@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-es'
+title = 'Learning with IA'
+theme = 'hugo-theme-relearn'
+outputs = ["HTML", "JSON", "PRINT"]
+
+# --- Parámetros Específicos del Tema (Opcional pero recomendado mirar) ---
+[params]
